@@ -1,0 +1,8 @@
+f.vimeocdn.com/
+cdn.cookielaw.org/
+vimeo.com/
+fresnel-events.vimeocdn.com/
+i.vimeocdn.com/
+js-agent.newrelic.com/
+b.siftscience.com/
+bam.nr-data.net/
